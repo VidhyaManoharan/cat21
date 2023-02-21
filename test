@@ -1,5 +1,17 @@
-Hi
+H
+  good
+  god is great
+  <<<<<<< HEAD
+  welcome back
+  =======
+  welcome to hell
+  >>>>>>> dev
+i
 how are you
 good 
 god is great
+<<<<<<< HEAD
 welcome back
+=======
+welcome to hell
+>>>>>>> dev
